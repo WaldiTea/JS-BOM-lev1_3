@@ -1,0 +1,19 @@
+body {
+  background: #3aa0ae;
+  font-family: sans-serif;
+}
+
+button {
+  background: #3dae38;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.5em;
+  padding: 0.75em 1.5em;
+}
+
+button:active {
+  background: #31882c;
+}
+/*# sourceMappingURL=style.css.map */
